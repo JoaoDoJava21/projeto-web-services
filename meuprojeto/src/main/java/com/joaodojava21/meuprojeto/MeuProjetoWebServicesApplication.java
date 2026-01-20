@@ -1,0 +1,13 @@
+package com.joaodojava21.meuprojeto;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class MeuProjetoWebServicesApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(MeuProjetoWebServicesApplication.class, args);
+	}
+
+}
